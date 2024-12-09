@@ -58,7 +58,7 @@ This file supports the analysis of **canonicity** and **disciplinary reception**
 ---
 
 ## **Citation**  
-If you use this dataset, please cite it as:  
+If you use these datasets, please cite us:  
 > **Ripoll-Alberola, L., D’Addario, L., Burghardt, M., Berti, M., & Depauw, M.**  
 > *Tracing Antiquity: References to Greco-Roman Authors in Modern Academic Discourse* (under review).  
 > Submission for **DH2025**.  

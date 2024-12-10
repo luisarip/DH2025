@@ -34,7 +34,7 @@ This file serves as a reference for the most cited and discussed authors in Clas
 ---
 
 ### **2. `aliases.csv`**  
-This file builds upon `MECANO_authors.csv` by including **author aliases and spelling variants**, facilitating the recognition of alternative spellings, name variations, and transliterations across different languages and contexts.  
+This file builds upon `MECANO_authors.csv` by using the Wikidata Query Service to include **author aliases and spelling variants**, facilitating the recognition of alternative spellings, name variations, and transliterations across different languages and contexts.  
 
 #### **Columns**  
 - **Columns from `MECANO_authors.csv`**: (Author Name, Author Disambiguation, Perseus Catalog ID, Wikipedia Entry, Trismegistos ID)  
